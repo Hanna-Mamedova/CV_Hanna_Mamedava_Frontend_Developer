@@ -26,7 +26,7 @@ Besides, highly-motivated and a self-organized, have a winning mindset to proble
 
 ## Experience
 **Period**-------------**Work**    
-*July’21 - Present*----ISDB Logistics Poland (Freight Forwarder)   
+*July’21 - Present*-----ISDB Logistics Poland (Freight Forwarder)   
 *Nov’22 - Jan'23*------Epam Systems (JS/Angular Developer (student))   
 *Feb’21 - June’21*-----Kuehne+Nagel (Intergrated Logistics Specialist)   
 *Nov’16 - Jan’21*------Rroup (Transport Planner)
