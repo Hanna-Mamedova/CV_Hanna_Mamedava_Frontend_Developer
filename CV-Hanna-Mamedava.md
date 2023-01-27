@@ -25,9 +25,9 @@ Besides, highly-motivated and a self-organized, have a winning mindset to proble
 
 
 ## Experience
-**Period**-----------------**Work**  
+**Period**-------------**Work**    
 *July’21 - Present*----ISDB Logistics Poland (Freight Forwarder)   
-*Nov’22 - Jan'23*----Epam Systems (JS/Angular Developer (student)) 
+*Nov’22 - Jan'23*------Epam Systems (JS/Angular Developer (student))   
 *Feb’21 - June’21*-----Kuehne+Nagel (Intergrated Logistics Specialist)   
 *Nov’16 - Jan’21*------Rroup (Transport Planner)
 
@@ -44,17 +44,17 @@ Besides, highly-motivated and a self-organized, have a winning mindset to proble
 * **Training Center SkillUP, Kiev** (Oct’20-Feb’21)   
 *Web and JavaScript for Front-end Development*
 
+* **Belarusian State University (BSU), Minsk** (2012 - 2017)  
+*Faculty:* International Relations  
+*Specialization:* Customs Logistics\Customs Affairs
+
 ## Portfolio 
   + [GitHub](https://github.com/Hanna-Mamedova) & [GitHub RS School works](https://github.com/rolling-scopes-school/hanna-mamedova-JSFE2022Q1)
   + Grid/Flexbox, Responsive design templates:  
     [Grid Template Project](https://hanna-mamedova.github.io/grid-template-init-project/)  
     [Shelter](https://rolling-scopes-school.github.io/hanna-mamedova-JSFE2022Q1/shelter/dist/)
   + [Project Management Application](https://rs-project-management-app-team111.netlify.app/)
- 
 
-* **Belarusian State University (BSU), Minsk** (2012 - 2017)  
-*Faculty:* International Relations  
-*Specialization:* Customs Logistics\Customs Affairs
 
 ## Languages
 **Russian** — native  
