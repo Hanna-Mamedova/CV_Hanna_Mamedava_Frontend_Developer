@@ -6,7 +6,7 @@
 **E-mail:** hanna.kuzich@gmail.com  
 **GitHub:** [Hanna-Mamedova](https://github.com/Hanna-Mamedova)  
 **Telegram:** @Hanna_Mamedova  
-**Linkedin:** [Hanna Mamedova](linkedin.com/in/hanna-mamedova)
+**Linkedin:** [Hanna Mamedova](linkedin.com/in/hanna-mamedova-024a7117a)
 
 ## About me
 Frontend Developer with about 1 year experience of educational projects in development adaptive user interfaces and SPAs. Skilled in creating new applications from scratch using Angular 2+ framework, RxJS and NgRx libraries, Angular Material UI component library  and unit testing. Have an experience of team leadership during final projects at RS School training courses. Participated in the EPAM's internal project "Bookstore", where gained an experience of working by Agile scrum methodology.
@@ -25,7 +25,7 @@ Besides, highly-motivated and a self-organized, have a winning mindset to proble
 
 
 ## Experience
-**Period**-------------**Work**    
+**Period**----------------**Work**    
 *July’21 - Present*-----ISDB Logistics Poland (Freight Forwarder)   
 *Nov’22 - Jan'23*------Epam Systems (JS/Angular Developer (student))   
 *Feb’21 - June’21*-----Kuehne+Nagel (Intergrated Logistics Specialist)   
@@ -59,5 +59,5 @@ Besides, highly-motivated and a self-organized, have a winning mindset to proble
 ## Languages
 **Russian** — native  
 **English** — B2/C1  
-**German** — B1  
-**Polish** – B1
+**Polish** – B1  
+**German** — A2/B1
