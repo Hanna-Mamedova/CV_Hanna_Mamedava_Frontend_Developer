@@ -14,7 +14,7 @@ Besides, highly-motivated and a self-organized, have a winning mindset to proble
 
 ## Skills
 * HTML5/CSS3, preprocessors LESS / SCSS (Sass), Figma
-* frameworks Bootstrap (v.3.x, v.4.x), Responsive Design & Mobile-First Websites
+* Bootstrap, Responsive Design & Mobile-First Websites
 * JavaScript, TypeScript, jQuery, Ajax, RESTful API, Chart.js
 * Angular 2+
 * Redux, RxJs
@@ -57,7 +57,7 @@ Besides, highly-motivated and a self-organized, have a winning mindset to proble
 
 
 ## Languages
-**Russian** — native  
-**English** — B2/C1  
-**Polish** – B1  
-**German** — A2/B1
+**Russian** — primary fluent  
+**English** — full professional proficient  
+**Polish** – professional working proficient   
+**German** — limited working proficient
